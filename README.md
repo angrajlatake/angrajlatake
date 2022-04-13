@@ -159,6 +159,8 @@
   </tbody>
 </table>
 
+![Angraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=angrajlatake&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angrajlatake&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>Where to find me</h3>
