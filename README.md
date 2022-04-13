@@ -2,6 +2,8 @@
 
 
 <p>Welcome to my page! </br> I'm Angraj, Fullstack developer from Toronto, Canada 🇨🇦 🍁 </p>
+I am working TypeScript and MaterialUI.
+Feel free to get in touch to collaborate or for any questions.
 <h3>Things I code with</h3>
 <p>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
